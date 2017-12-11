@@ -2,7 +2,7 @@
 
 Today I'll focus on our strengths and personal interests not just as coders but as a person and potential employee
 
-###Strengths & Interests:
+### Strengths & Interests:
 1. Macro-level thinking
 2. Urban Agriculture, Controlled Environment Agriculture
 3. Sustainability
