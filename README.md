@@ -1,15 +1,16 @@
-# Ruby on Rails Tutorial sample application
+# Epicodus Ruby on Rails Week 2 Code Review
 
-This is the sample application for
-[*Ruby on Rails Tutorial:
-Learn Web Development with Rails*](http://www.railstutorial.org/)
-by [Michael Hartl](http://www.michaelhartl.com/).
+Today I'll focus on our strengths and personal interests not just as coders but as a person and potential employee
 
-## License
+###Strengths & Interests:
+1. Macro-level thinking
+2. Urban Agriculture, Controlled Environment Agriculture
+3. Sustainability
+4. Finding and Leveraging Efficiencies
+5. Working on New Ways to Solve Problems
 
-All source code in the [Ruby on Rails Tutorial](http://railstutorial.org/)
-is available jointly under the MIT License and the Beerware License. See
-[LICENSE.md](LICENSE.md) for details.
+
+
 
 ## Getting started
 
@@ -36,6 +37,3 @@ If the test suite passes, you'll be ready to run the app in a local server:
 ```
 $ rails server
 ```
-
-For more information, see the
-[*Ruby on Rails Tutorial* book](http://www.railstutorial.org/book).
